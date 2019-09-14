@@ -1,0 +1,26 @@
+{
+  "name": "codesignal",
+  "version": "1.0.0",
+  "description": "Working on the problems on Codesignal.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/codesignal.git"
+  },
+  "keywords": [
+    "coding",
+    "code",
+    "codesignal",
+    "javascript",
+    "algorithms"
+  ],
+  "author": "Dave Kanter",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/raydot/codesignal/issues"
+  },
+  "homepage": "https://github.com/raydot/codesignal#readme"
+}
